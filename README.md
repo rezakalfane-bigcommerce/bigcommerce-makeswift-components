@@ -15,6 +15,8 @@ Claude Code loads a skill's `SKILL.md` automatically when a task matches its des
 - **`SKILL.md`** — the entry point: workflow for adding/updating a component, and the project-specific gotchas.
 - **`references/controls.md`** — full API reference for every Makeswift control (options + resolved prop type), plus a canonical end-to-end new-component example.
 - **`references/runtime-and-components.md`** — `ReactRuntime` setup, `<Page>` / `<ReactRuntimeProvider>` / `<RootStyleRegistry>` / `<MakeswiftComponent>`, `MakeswiftClient` methods, `MakeswiftApiHandler` + custom fonts, and a troubleshooting quick-reference.
+- **`references/setup-and-installation.md`** — the generic Makeswift + Next.js App Router install (quickstart CLI and full manual step-by-step), plus a diagnostic checklist for "component doesn't show up"/"won't connect" issues.
+- **`references/catalyst-integration.md`** — how that generic setup maps onto **actual Catalyst file paths** (`lib/makeswift/runtime.ts`, `client.ts`, the `components.ts` barrel, `provider.tsx`, the locale-aware catch-all route, the API handler's `getFonts()`), where and why Catalyst diverges from the generic pattern, and the current full inventory of registered components.
 
 ## Installing
 
