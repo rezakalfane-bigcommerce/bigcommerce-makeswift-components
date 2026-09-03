@@ -1,3 +1,5 @@
+> **Archived — moved to [bigcommerce-skills/makeswift-components](https://github.com/rezakalfane-bigcommerce/bigcommerce-skills/tree/main/makeswift-components).** This standalone repo is no longer updated.
+
 # bigcommerce-makeswift-components
 
 A [Claude Code](https://claude.com/claude-code) skill for creating and updating [Makeswift](https://www.makeswift.com/) page-builder components inside a [BigCommerce Catalyst](https://www.catalyst.dev/) storefront (Next.js).
