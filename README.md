@@ -1,4 +1,4 @@
-> **Archived — moved to [bigcommerce-skills/makeswift-components](https://github.com/rezakalfane-bigcommerce/bigcommerce-skills/tree/main/makeswift-components).** This standalone repo is no longer updated.
+> **Archived — moved to [commerce-skills/makeswift-components](https://github.com/rezakalfane-bigcommerce/commerce-skills/tree/main/makeswift-components).** This standalone repo is no longer updated.
 
 # bigcommerce-makeswift-components
 
